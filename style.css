@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+    background-color: #181818;
+}
+h1{
+    background-color: transparent;
+}
+.nick{
+    opacity: 0%;
+}
